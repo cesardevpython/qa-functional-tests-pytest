@@ -17,3 +17,7 @@ pytest --maxfail=1 --disable-warnings -v
 ## AUTOR:
 César Henrique da Silva
 Projeto criado para fins acadêmicos e como forma de praticar o que estou aprendendo.
+
+## TAGS:
+
+`python` `pytest` `qa` `testes-automatizados` `testes-funcionais` `quality-assurance` `web-testing` `page-object` `selenium` `tdd`
